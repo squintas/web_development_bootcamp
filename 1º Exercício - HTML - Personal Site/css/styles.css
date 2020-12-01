@@ -1,0 +1,23 @@
+body {
+  background-color: #EAF6F6
+}
+
+/* Um bocado confuso */
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+
+
+/*  */
+
+h1 {
+  color: #00ffff
+}
+
+h3 {
+  color: #00ffff
+}
